@@ -1,0 +1,26 @@
+########################################################
+# profile配置
+#profile:
+#  active: dev
+
+########################################################
+# 应用配置
+app:
+  name: dartboot # 应用名可以自定义修改
+
+########################################################
+# 服务配置
+server:
+  port: 8701 # 端口可以自定义修改
+  context-path: /dartboot # 上下文可以自定义修改
+
+database:
+  mysql:
+    db1: # 数据库ID
+      host: 192.168.1.xx
+      port: 3306
+      db: xx
+      username: xxxx
+      password: xxxx
+      min-pool-size: 20
+      max-pool-size: 50

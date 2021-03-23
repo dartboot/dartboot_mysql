@@ -1,0 +1,88 @@
+[2021-03-18 19:45:26:446 :default:--:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-18 19:45:26:453 :default:--:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-18 19:45:26:453 :default:--:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-18 19:45:26:453 :default:--:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-18 19:45:26:453 :default:--:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-18 19:45:26:453 :default:--:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:45:26:453 :default:--:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:45:26:453 :default:--:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:45:26:470 :default:--:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-18 19:45:26:470 :default:--:] [U: T:] [INFO] HttpServer: Server started on port:8080 and context path:[/].
+[2021-03-18 19:45:26:470 :default:--:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-18 19:53:59:015 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-18 19:53:59:021 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-18 19:53:59:021 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-18 19:53:59:021 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-18 19:53:59:021 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-18 19:53:59:021 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:53:59:021 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:53:59:021 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:53:59:022 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-18 19:53:59:022 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-18 19:53:59:022 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-18 19:54:38:006 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-18 19:54:38:012 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-18 19:54:38:012 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-18 19:54:38:012 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-18 19:54:38:012 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-18 19:54:38:012 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:54:38:012 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:54:38:012 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 19:54:38:013 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-18 19:54:38:013 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-18 19:54:38:013 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-18 20:00:33:756 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-18 20:00:33:762 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-18 20:00:33:762 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-18 20:00:33:762 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-18 20:00:33:762 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-18 20:00:33:762 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:00:33:762 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:00:33:762 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:00:33:763 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-18 20:00:33:763 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-18 20:00:33:763 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-18 20:03:06:717 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-18 20:03:06:723 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-18 20:03:06:723 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-18 20:03:06:723 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-18 20:03:06:723 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-18 20:03:06:723 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:03:06:723 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:03:06:723 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:03:06:724 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-18 20:03:06:724 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-18 20:03:06:724 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-18 20:05:38:795 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-18 20:05:38:800 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-18 20:05:38:801 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-18 20:05:38:801 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-18 20:05:38:801 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-18 20:05:38:801 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:05:38:801 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:05:38:801 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:05:38:801 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-18 20:05:38:801 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-18 20:05:38:802 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-18 20:08:02:572 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-18 20:08:02:577 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-18 20:08:02:577 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-18 20:08:02:577 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-18 20:08:02:577 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-18 20:08:02:577 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:08:02:577 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:08:02:577 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:08:02:578 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-18 20:08:02:578 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-18 20:08:02:578 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-18 20:09:20:682 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-18 20:09:20:688 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-18 20:09:20:688 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-18 20:09:20:688 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-18 20:09:20:688 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-18 20:09:20:688 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:09:20:688 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:09:20:688 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-18 20:09:20:689 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-18 20:09:20:689 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-18 20:09:20:689 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.

@@ -1,0 +1,11 @@
+name: dartboot_mysql_example
+description: Example code.
+version: 1.0.0
+homepage: https://github.com/dartboot/dartboot_mysql
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  dartboot_mysql:
+    path: ../

@@ -1,0 +1,101 @@
+[2021-03-23 12:49:57:900 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-23 12:49:57:906 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-23 12:49:57:906 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-23 12:49:57:906 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-23 12:49:57:906 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-23 12:49:57:906 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:49:57:906 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:49:57:906 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:49:57:907 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-23 12:49:57:907 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-23 12:49:57:907 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-23 12:50:22:125 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-23 12:50:22:131 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-23 12:50:22:131 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 2 controllers.
+[2021-03-23 12:50:22:131 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-23 12:50:22:131 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("MysqlTest") registered.
+[2021-03-23 12:50:22:131 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-23 12:50:22:132 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:50:22:132 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:50:22:132 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:50:22:133 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-23 12:50:22:133 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-23 12:50:22:133 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-23 12:51:30:662 :default:8700:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-23 12:51:30:668 :default:8700:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-23 12:51:30:668 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 2 controllers.
+[2021-03-23 12:51:30:668 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-23 12:51:30:668 :default:8700:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("MysqlTest") registered.
+[2021-03-23 12:51:30:668 :default:8700:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-23 12:51:30:668 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:51:30:668 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:51:30:669 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:51:30:669 :default:8700:] [U: T:] [INFO] HttpServer: Bind api:[GET /aaa/xx] to controller:[Symbol("MysqlTest")]
+[2021-03-23 12:51:30:669 :default:8700:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-23 12:51:30:669 :default:8700:] [U: T:] [INFO] HttpServer: Server started on port:8700 and context path:[/dartboot].
+[2021-03-23 12:51:30:669 :default:8700:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-23 12:52:03:916 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-23 12:52:03:922 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-23 12:52:03:922 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 2 controllers.
+[2021-03-23 12:52:03:922 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-23 12:52:03:922 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("MysqlTest") registered.
+[2021-03-23 12:52:03:922 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-23 12:52:03:922 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:52:03:922 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:52:03:923 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:52:03:923 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /aaa/xx] to controller:[Symbol("MysqlTest")]
+[2021-03-23 12:52:03:923 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-23 12:52:03:923 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-23 12:52:03:923 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-23 12:52:23:294 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-23 12:52:23:300 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-23 12:52:23:300 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 2 controllers.
+[2021-03-23 12:52:23:300 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-23 12:52:23:300 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("MysqlTest") registered.
+[2021-03-23 12:52:23:300 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-23 12:52:23:300 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:52:23:300 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:52:23:301 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:52:23:301 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /aaa/xx] to controller:[Symbol("MysqlTest")]
+[2021-03-23 12:52:23:301 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-23 12:52:23:301 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-23 12:52:23:301 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-23 12:53:02:692 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-23 12:53:02:698 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-23 12:53:02:698 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 2 controllers.
+[2021-03-23 12:53:02:698 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-23 12:53:02:698 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("MysqlTest") registered.
+[2021-03-23 12:53:02:698 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-23 12:53:02:698 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:53:02:716 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:53:02:716 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:53:02:716 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /aaa/xx] to controller:[Symbol("MysqlTest")]
+[2021-03-23 12:53:02:716 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-23 12:53:02:716 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-23 12:53:02:716 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-23 12:55:23:969 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-23 12:55:23:975 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-23 12:55:23:975 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 2 controllers.
+[2021-03-23 12:55:23:975 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-23 12:55:23:975 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("MysqlTest") registered.
+[2021-03-23 12:55:23:975 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-23 12:55:23:975 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:55:23:975 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:55:23:976 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:55:23:976 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /aaa/xx] to controller:[Symbol("MysqlTest")]
+[2021-03-23 12:55:23:976 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-23 12:55:23:976 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-23 12:55:23:976 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-23 12:55:50:963 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-23 12:55:50:968 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-23 12:55:50:968 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 2 controllers.
+[2021-03-23 12:55:50:968 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-23 12:55:50:968 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("MysqlTest") registered.
+[2021-03-23 12:55:50:968 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-23 12:55:50:968 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:55:50:968 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:55:50:969 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-23 12:55:50:969 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /aaa/xx] to controller:[Symbol("MysqlTest")]
+[2021-03-23 12:55:50:969 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-23 12:55:50:969 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-23 12:55:50:969 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
