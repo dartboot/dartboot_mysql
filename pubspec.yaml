@@ -1,17 +1,18 @@
 name: dartboot_mysql
 description: MySQL pool client for DartBoot.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/dartboot/dartboot_mysql
 
 environment:
   sdk: '>=2.10.0 <3.0.0'
 
 dependencies:
-  dartboot_db: ^1.0.1
+  dartboot_db: ^1.0.2
   dartboot_util: ^1.0.0
   dartboot_core: ^1.0.10
-  dartboot_annotation: ^1.0.0
   mysql1: ^0.17.0
+
+dev_dependencies:
   build: ^1.2.2
   build_runner: ^1.9.0
   source_gen: ^0.9.4+6
