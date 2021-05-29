@@ -29,7 +29,6 @@ class MysqlClientHelper {
     // 初始化连接池
     _instance = this;
     dynamic mysqlConf = ApplicationContext.instance['database.mysql'];
-    print(mysqlConf);
     if (mysqlConf is Map && mysqlConf.keys.isNotEmpty) {
       mysqlConf.keys.where((k) => !innerKeys.contains(k)).forEach((k) {
         _pools[k] = MysqlConnectionPool.create(mysqlConf[k]);
@@ -46,7 +45,7 @@ class MysqlClientHelper {
   /// MysqlClientHelper.getClient('dev').then();
   /// ```
   static Future<MysqlConnection2> getClient([String id]) {
-    while (null == _instance || initializing);
+    while (null == _instance || initializing) {}
     assert(_instance._pools.isNotEmpty, 'No any mysql configured.');
 
     if (isEmpty(id)) {
